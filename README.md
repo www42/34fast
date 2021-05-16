@@ -8,7 +8,6 @@
 
 [AZ-304 Labs](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/)
 
-Table of Contents
 
 ### Day 1 - Identity, Gouvernance
 |                 |             |
@@ -70,3 +69,4 @@ Lab: [Protecting Hyper-V VMs by using Azure Site Recovery](https://microsoftlear
 |AZ-304 Module 13 | Design an Application Architecture |
 |AZ-304 Module 14 | Design Security for Applications |
 
+Lab: [Implement Azure Logic Apps integration with Azure Event Grid](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/Instructions/Labs/Module_13_Lab_a.html)
