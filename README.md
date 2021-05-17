@@ -15,7 +15,8 @@
 |AZ-303 Module 1  | Implement Azure Active Directory |
 |AZ-303 Module 2  | Implement and Manage Hybrid Identities |
 |AZ-303 Module 10 | Implement and Manage Azure Governance |
-|AZ-304 Module 5  | Design Authentication and Authorization |
+|AZ-304 Module 4  | Design Authentication and Authorization |
+|AZ-304 Module 5  | Design Governance |
 
 Lab: [Create a new Tenant in Azure AD](https://www.az.training/createNewTenant.html) and [Redeem your Azure Pass code](https://www.az.training/redeemAzurePass.html)
 
