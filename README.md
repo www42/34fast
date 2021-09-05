@@ -1,12 +1,12 @@
 # AZ-303 AZ-304 Fast Track
 
-[AZ-303 GitHub Repo](https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies)
+[AZ-303 GitHub Repo](https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies){:target="_blank"}
 
-[AZ-304 GitHub Repo](https://github.com/MicrosoftLearning/AZ-304-Microsoft-Azure-Architect-Design)
+[AZ-304 GitHub Repo](https://github.com/MicrosoftLearning/AZ-304-Microsoft-Azure-Architect-Design){:target="_blank"}
 
-[AZ-303 Labs](https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/)
+[AZ-303 Labs](https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/){:target="_blank"}
 
-[AZ-304 Labs](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/)
+[AZ-304 Labs](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/){:target="_blank"}
 
 
 ### Day 1 - Identity, Gouvernance
@@ -18,7 +18,7 @@
 |AZ-304 Module 4  | Design Authentication and Authorization |
 |AZ-304 Module 5  | Design Governance |
 
-Lab: [Create a new Tenant in Azure AD](https://www.az.training/createNewTenant.html) and [Redeem your Azure Pass code](https://www.az.training/redeemAzurePass.html)
+Lab: [Create a new Tenant in Azure AD](https://www.az.training/createNewTenant.html){:target="_blank"}and [Redeem your Azure Pass code](https://www.az.training/redeemAzurePass.html){:target="_blank"}
 
 ### Day 2 - Automation, Compute, Network
 
@@ -31,7 +31,7 @@ Lab: [Create a new Tenant in Azure AD](https://www.az.training/createNewTenant.h
 |AZ-303 Module 5  | Implement Load Balancing and Network Security |
 |AZ-304 Module 2  | Design a Network Solution |
 
-Lab: [Implementing Highly Available Azure IaaS Compute Architecture](https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/Instructions/Labs/Module_05_Lab.html)
+Lab: [Implementing Highly Available Azure IaaS Compute Architecture](https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/Instructions/Labs/Module_05_Lab.html){:target="_blank"}
 
 ### Day 3 - Storage, Databases, Costs
 
@@ -45,7 +45,7 @@ Lab: [Implementing Highly Available Azure IaaS Compute Architecture](https://mic
 |AZ-304 Module 8  | Design Data Integration |
 |AZ-304 Module 12 | Design for Cost Optimization |
 
-Lab: [Implementing and Configuring Azure Storage File and Blob Services](https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/Instructions/Labs/Module_06_Lab.html)
+Lab: [Implementing and Configuring Azure Storage File and Blob Services](https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/Instructions/Labs/Module_06_Lab.html){:target="_blank"}
 
 ### Day 4 - Monitoring, Workloads, HA
 
@@ -58,7 +58,7 @@ Lab: [Implementing and Configuring Azure Storage File and Blob Services](https:/
 |AZ-304 Module 10 | Design a Solution for Backup and Recovery |
 |AZ-304 Module 11 | Design for High Availability |
 
-Lab: [Protecting Hyper-V VMs by using Azure Site Recovery](https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/Instructions/Labs/Module_12_Lab.html)
+Lab: [Protecting Hyper-V VMs by using Azure Site Recovery](https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/Instructions/Labs/Module_12_Lab.html){:target="_blank"}
 
 ### Day 5 - Applications
 
@@ -70,6 +70,4 @@ Lab: [Protecting Hyper-V VMs by using Azure Site Recovery](https://microsoftlear
 |AZ-304 Module 13 | Design an Application Architecture |
 |AZ-304 Module 14 | Design Security for Applications |
 
-Lab: [Implement Azure Logic Apps integration with Azure Event Grid](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/Instructions/Labs/Module_13_Lab_a.html)
-
-Feedback: [Metrics That Matter](https://www.metricsthatmatter.com/url/u.aspx?75FDFFF11169710974)
+Lab: [Implement Azure Logic Apps integration with Azure Event Grid](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/Instructions/Labs/Module_13_Lab_a.html){:target="_blank"}
