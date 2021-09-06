@@ -18,9 +18,8 @@
 |AZ-304 Module 4  | Design Authentication and Authorization |
 |AZ-304 Module 5  | Design Governance |
 
-Lab: [Create a new Tenant in Azure AD](https://www.az.training/createNewTenant.html)and [Redeem your Azure Pass code](https://www.az.training/redeemAzurePass.html)
 
-Lab: [Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/index.md) and [Redeem your Azure Pass code](https://www.az.training/redeemAzurePass.html)
+Lab: [Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/Create-Tenant.md) and [Redeem your Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
 
 
 ### Day 2 - Automation, Compute, Network
