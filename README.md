@@ -9,7 +9,7 @@
 [AZ-304 Labs](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/)
 
 
-### Day 1 - Identity, Gouvernance
+### Day 1 - Identity, Governance
 |                 |             |
 | --------------- | ----------- |
 |AZ-303 Module 1  | Implement Azure Active Directory |
