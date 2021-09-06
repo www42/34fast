@@ -20,6 +20,9 @@
 
 Lab: [Create a new Tenant in Azure AD](https://www.az.training/createNewTenant.html)and [Redeem your Azure Pass code](https://www.az.training/redeemAzurePass.html)
 
+Lab: [Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/index.md) and [Redeem your Azure Pass code](https://www.az.training/redeemAzurePass.html)
+
+
 ### Day 2 - Automation, Compute, Network
 
 |                 |             |
