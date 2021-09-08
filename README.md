@@ -33,7 +33,9 @@ Lab: [Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/
 |AZ-303 Module 5  | Implement Load Balancing and Network Security |
 |AZ-304 Module 2  | Design a Network Solution |
 
-Lab: [Implementing Highly Available Azure IaaS Compute Architecture](https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/Instructions/Labs/Module_05_Lab.html)
+Lab 1: [Implementing Highly Available Azure IaaS Compute Architecture](https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/Instructions/Labs/Module_05_Lab.html)
+
+Lab 2: [Implementing Azure SQL Database-Based Applications](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/Instructions/Labs/Module_6_Lab.html)
 
 ### Day 3 - Storage, Databases, Costs
 
