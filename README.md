@@ -75,4 +75,6 @@ Lab: [Protecting Hyper-V VMs by using Azure Site Recovery](https://microsoftlear
 |AZ-304 Module 13 | Design an Application Architecture |
 |AZ-304 Module 14 | Design Security for Applications |
 
+Demo: [ACR and AKS](https://github.com/www42/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/tj/Demo_Kubernetes.azcli)
+
 Lab: [Implement Azure Logic Apps integration with Azure Event Grid](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/Instructions/Labs/Module_13_Lab_a.html)
