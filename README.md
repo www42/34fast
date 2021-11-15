@@ -8,6 +8,8 @@
 
 [AZ-304 Labs](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/)
 
+[Reimagining the Azure Solutions Architect Expert certification - Microsoft Learn Blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/reimagining-the-azure-solutions-architect-expert-certification/ba-p/2813695)
+
 
 ### Day 1 - Identity, Governance
 |                 |             |
@@ -80,7 +82,3 @@ Demo: [ACR and AKS](https://github.com/www42/AZ-303-Microsoft-Azure-Architect-Te
 Lab: [Implement Azure Logic Apps integration with Azure Event Grid](https://microsoftlearning.github.io/AZ-304-Microsoft-Azure-Architect-Design/Instructions/Labs/Module_13_Lab_a.html)
 
 - - -
-
-AZ-303 [Download Presentation (zip)](https://download69118.blob.core.windows.net/anon/AZ-303PowerPoint.zip)
-
-AZ-304 [Download Presentation (zip)](https://download69118.blob.core.windows.net/anon/AZ-304PowerPoint.zip)
